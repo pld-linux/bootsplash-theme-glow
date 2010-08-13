@@ -6,11 +6,11 @@ Summary(de.UTF-8):	Bootsplash - glow by shadzik Thema für Bootsplash
 Summary(pl.UTF-8):	Bootsplash - motyw glow wg shadzika
 Name:		bootsplash-theme-%{theme}
 Version:	1.0
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Themes
 Source0:	http://livecd.pld-linux.org/%{theme}-%{version}.tar.gz
-# Source0-md5:	6a6b912618d821a2344572d2797101b6
+# Source0-md5:	597eb18b1012b67c8c538c6b720b446e
 URL:		http://livecd.pld-linux.org/
 Requires:	bootsplash
 Provides:	bootsplash-theme
