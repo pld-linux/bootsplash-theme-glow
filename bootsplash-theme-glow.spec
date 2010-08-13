@@ -10,7 +10,7 @@ Release:	0.2
 License:	GPL v2
 Group:		Themes
 Source0:	http://livecd.pld-linux.org/%{theme}-%{version}.tar.gz
-# Source0-md5:	fcd36809e33ec73af00d065ff6d6e449
+# Source0-md5:	be3dd792c07f4a1447d65ec5cea6a691
 URL:		http://livecd.pld-linux.org/
 Requires:	bootsplash
 Provides:	bootsplash-theme
